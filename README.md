@@ -20,6 +20,8 @@ $ shokugeki no souma
 ```
 This will create a folder `output/shokugeki_no_souma` and download the last episode there
 
+## Advice
+This is a "for fun" project. I only made it because i like ~~to suffer with~~ c and wanted to use cURL and gumbo for something.
 
 ## License
 MIT
