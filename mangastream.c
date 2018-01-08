@@ -83,7 +83,7 @@ struct HttpRequestContent makeRequest(char* url){
         struct curl_slist *header_list = NULL;
 
         //Add headers, could be more, but for now, we'll only use User-Agent
-        header_list = curl_slist_append(header_list,"User-Agent: Mangastream parser");
+        header_list = curl_slist_append(header_list,"User-Agent: c_mangastream_downloader (https://github.com/fanalis/c_mangastream_downloader)");
 
         curl_easy_setopt(mangastream, CURLOPT_URL, url); //Set url
         curl_easy_setopt(mangastream, CURLOPT_WRITEFUNCTION, WriteMemoryCallback); //Callback function
