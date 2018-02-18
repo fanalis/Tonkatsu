@@ -1,5 +1,6 @@
-# c_mangastream_downloader
+# Tonkatsu
 C program to download last episode of a manga from mangastream
+Why tonkatsu? Cuz i like food
 
 
 ## Requirements
