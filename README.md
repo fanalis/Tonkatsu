@@ -2,6 +2,8 @@
 C program to download last episode of a manga from mangastream
 Why tonkatsu? Cuz i like food
 
+## Disclaimer
+Mangastream page closed, so this is now useless.
 
 ## Requirements
 - [gumbo-parser](https://github.com/google/gumbo-parser)
